@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "Example app",
+  "main": "server.js",
+  "scripts": {
+    "test": "who",
+    "start": "node server.js"
+  },
+  "author": "mlenka",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0",
+    "mongoose":"^4.0.3",
+    "superagent":"^1.2.0",
+    "querystring":"^0.2.0"
+      
+  }
+}
